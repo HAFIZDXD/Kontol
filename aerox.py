@@ -157,14 +157,14 @@ def banner():
 	cik2=mark(wel ,style='cyan')
 	sol().print(cik2)
 	ban='''
-•   AUTHOR  : AORECXHafizdXD
+•   AUTHOR  : HafizdXD
 •   _____ _______  ____________________         •
 •   __  // /__   |/  /__  __ )__  ____/         •
 •   _  // /__  /|_/ /__  __  |_  /_             •
 •   /__  __/  /  / / _  /_/ /_  __/             •
-•     /_/  /_/  /_/  /_____/ /_/ VERSION 10.4.12  •
+•     /_/  /_/  /_/  /_____/ /_/ VERSION BETA   •
 •                                               •
-•   GITHUB : HTTPS://GITHUB.COM/HafizdXD•'''
+•   GITHUB : https//github.com/HafizdXD   •'''
 	oi = nel(tekz(ban,justify='center',style='bold'), style='cyan')
 	cetak(nel(oi, title='[bold cyan] • DEVELOVER INFORMATION • [/bold cyan]'))
 # VALIDASI TOKEN

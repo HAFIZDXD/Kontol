@@ -112,7 +112,7 @@ def cocok():
 		cokbru=open('.cookie.txt').read()
 		cokbrut.append(cokbru)
 	except:
-os.system("xdg-open https://www.facebook.com/zhea.rezpectharufa")
+
 # COLORS
 x = '\33[m' # DEFAULT
 k = '\033[93m' # KUNING +

@@ -157,7 +157,7 @@ def banner():
 	cik2=mark(wel ,style='cyan')
 	sol().print(cik2)
 	ban='''
-•   AUTHOR  : HafizdXD
+•   AUTHOR  : HafizdXD   •
 •   _____ _______  ____________________         •
 •   __  // /__   |/  /__  __ )__  ____/         •
 •   _  // /__  /|_/ /__  __  |_  /_             •

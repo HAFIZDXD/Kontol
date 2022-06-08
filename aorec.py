@@ -114,7 +114,6 @@ def cocok():
 	except:
 
 # COLORS
-x = '\33[m' # DEFAULT
 k = '\033[93m' # KUNING +
 h = '\x1b[1;92m' # HIJAU +
 hh = '\033[32m' # HIJAU -
